@@ -28,12 +28,10 @@ To make this app work, you need to sign up for a free API key from OpenWeatherMa
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-
 ## Author
 
-- Your Name
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Name
+- GitHub:(https://github.com/lordsharkie)
 
 ## Acknowledgments
 
