@@ -24,7 +24,7 @@ This is a simple weather app that allows you to check the weather based on your 
 
 ## API Key
 
-To make this app work, you need to sign up for a free API key from OpenWeatherMap. Replace `'a7d7ac280533bccf5abf54b2b8470507'` in the JavaScript code with your own API key.
+To make this app work, you need to sign up for a free API key from OpenWeatherMap. Replace `'your_api key'` in the JavaScript code with your own API key.
 
 ## Screenshots
 
